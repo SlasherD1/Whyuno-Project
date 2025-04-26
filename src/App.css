@@ -14,11 +14,11 @@
 }
 
 .font-boldoa {
-  font-family: "Gluten";
+  font-family: "Bugaki";
 }
 
 .font-boldoa1 {
-  font-family: "Gluten", sans-serif;
+  font-family: "Bugaki", sans-serif;
   font-weight: 900; /* Lebih berat */
   color: black;
   -webkit-text-stroke: 1px white; /* Stroke lebih tebal */
@@ -28,8 +28,8 @@
 
 
 @font-face {
-  font-family: 'Gluten';
-  src: url('./assets/fonts/Gluten.otf') format('truetype');
+  font-family: 'Bugaki';
+  src: url('./assets/fonts/Bugaki.otf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
