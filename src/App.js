@@ -34,9 +34,9 @@ const App = () => {
           <h2 className="md:text-6xl text-2xl font-bold text-white px-4 py-2 font-boldoa">
             Y U HERE
           </h2>
-          {/* <h2 className="text-base md:text-xl text-sm bg-yellow-500 rounded-xl font-bold text-black px-4 py-2">
-            CA : 6peK3JRbBPBUgefMhzWEhJPuohaeaTu1WLWYueYtpump
-          </h2> */}
+          <h2 className="text-base md:text-xl text-sm bg-yellow-500 rounded-xl font-bold text-black px-4 py-2">
+            CA : Hx4oi3JoiDDBkSZpMGrGhnyzGH3MtSJ2T3RXtzAopump
+          </h2>
         </div>
       </section>
 

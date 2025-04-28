@@ -20,7 +20,7 @@ const Navbar = () => {
       <ul className="hidden md:flex flex-col items-center gap-6">
         <li>
           <a
-            href="https://t.me/okaycoinn"
+            href="https://t.me/WHYUNO"
             target="_blank"
             rel="noopener noreferrer"
             className="block"
@@ -33,7 +33,7 @@ const Navbar = () => {
 
         <li>
           <a
-            href="https://x.com/YunoCoinn"
+            href="https://x.com/WHYUNOcoin"
             target="_blank"
             rel="noopener noreferrer"
             className="block"
@@ -67,7 +67,7 @@ const Navbar = () => {
         <ul className="absolute top-16 left-0 w-full flex flex-col items-center gap-6 py-6 md:hidden bg-black/80">
           <li>
             <a
-              href="https://t.me/okaycoinn"
+              href="https://t.me/WHYUNO"
               target="_blank"
               rel="noopener noreferrer"
               className="block"
@@ -80,7 +80,7 @@ const Navbar = () => {
 
           <li>
             <a
-              href="https://x.com/YunoCoinn"
+              href="https://x.com/WHYUNOcoin"
               target="_blank"
               rel="noopener noreferrer"
               className="block"
